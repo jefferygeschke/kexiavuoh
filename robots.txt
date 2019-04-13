@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eihahguin.agilemanifesto.org/sitemap.xml
